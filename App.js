@@ -24,7 +24,7 @@ const navigator = createStackNavigator(
     initialRouteName: 'Home',
     headerMode: 'float',
     defaultNavigationOptions: {
-      title: "Stuti's",
+      title: 'App',
     },
   }
 );
